@@ -3,13 +3,6 @@
 [![Test of Knowledge](http://img.youtube.com/vi/v4Ot4sUDY2g/0.jpg)](https://youtu.be/v4Ot4sUDY2g)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-```
-
-I hope this helps! Let me know if you have any other questions. 😊
-
-
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
 ## Features
