@@ -19,7 +19,27 @@ The Test of Knowledge App has the following features:
 
 ## Getting Started
 
-First, run the development server:
+First, clone the repository and navigate to your project directory:
+
+```bash
+git clone https://github.com/RuslanTsykaliak/test-of-knowledge.git your-folder
+
+cd your-folder
+```
+
+Second, install the dependencies:
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+Third, run the development server:
 
 ```bash
 npm run dev
