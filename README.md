@@ -1,4 +1,22 @@
+# Test of Knowledge
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
+## Features
+
+The Test of Knowledge App has the following features:
+
+- **List of possible quizzes**: The app displays a list of all available quizzes.
+- **Ability to add a new quiz**: Users can create a new quiz.
+- **Ability to delete a quiz**: Users can delete an existing quiz.
+- **Ability to edit a quiz**: Users can edit the details of an existing quiz.
+- **Dynamic question and answer options**: When creating a quiz, users can add or delete questions. Users can also mark the correct answer for each question.
+- **Quiz taking and scoring**: Users can take a quiz and get a final score based on their answers. 
+
 
 ## Getting Started
 
